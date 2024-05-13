@@ -11,3 +11,6 @@ function isAbove18() {
 
 
 }
+function newFun(){
+    console.log('Hey I am a new fn')
+}
